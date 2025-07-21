@@ -1,0 +1,20 @@
+Train size = 623 rows
+Test size = 268 rows
+Final Train accuracy (5 layers) = 85.23%
+Final Test accuracy (5 layers) = 80.22%
+
+
+What happened when you increase the number of layers?
+Answer: Increasing layers improved test accuracy but also increased execution time. The accuracy was best at 4 layers, after that accuracy starts reducing.
+
+What happened when you increase the number of neurons and layers both?
+Answer: Increasing both improved accuracy by around 5% but increased training duration.
+
+What is the number of layers and neurons in each layer of your final model?
+Answer: Final model: 5 layers with 64 neurons each (hidden layers) and 1 neuron in the output layer.
+
+After how many epochs did your model stop improving?
+Answer: The model stopped improving significantly after 70 epochs.
+
+What is batch size? Did you change batch size in your training?
+Answer: Batch size is the number of samples processed before updating model parameters. Used 32 initially, then 64, reducing training time without loss of accuracy.
