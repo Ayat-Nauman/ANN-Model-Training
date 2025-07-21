@@ -15,7 +15,7 @@ Each row in the dataset represents a passenger on the bullet train. The objectiv
 
 The task is to preprocess this data, build an ANN model, tune its parameters (layers, neurons, epochs, batch size), and analyze its behavior.
 
-## ✅ Tasks Completed
+## Tasks Completed
 
 - Data preprocessing (handling missing values, encoding categorical data)
 - ANN model built using TensorFlow/Keras
@@ -36,7 +36,7 @@ A detailed response to the following questions is provided in `analysis_answers.
 4. **Epochs after which training stopped improving**
 5. **Explanation of batch size and its effect on training**
 
-## 🧪 How to Run
+##  How to Run
 
 Make sure you have the required dependencies installed:
 
