@@ -3,7 +3,7 @@
 This project involves building an Artificial Neural Network (ANN) to predict the survival of passengers involved in a bullet train accident, based on various features such as class, age, gender, and fare.
 
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Each row in the dataset represents a passenger on the bullet train. The objective is to predict the `Survived` column using the following features:
 
@@ -14,8 +14,6 @@ Each row in the dataset represents a passenger on the bullet train. The objectiv
 - **Fare**: Ticket cost
 
 The task is to preprocess this data, build an ANN model, tune its parameters (layers, neurons, epochs, batch size), and analyze its behavior.
-
----
 
 ## ✅ Tasks Completed
 
@@ -28,9 +26,7 @@ The task is to preprocess this data, build an ANN model, tune its parameters (la
 - Performance evaluation (accuracy, loss trends)
 - Analysis and answers to assignment questions
 
----
-
-## 📊 Model Evaluation & Questions
+## Model Evaluation & Questions
 
 A detailed response to the following questions is provided in `analysis_answers.txt`:
 
@@ -39,8 +35,6 @@ A detailed response to the following questions is provided in `analysis_answers.
 3. **Final model architecture (layers and neurons) and justification**
 4. **Epochs after which training stopped improving**
 5. **Explanation of batch size and its effect on training**
-
----
 
 ## 🧪 How to Run
 
